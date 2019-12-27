@@ -1,0 +1,14 @@
+{
+  "type": "js",
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "altMP utils",
+  "main": "index.mjs",
+  "client-main": "client.mjs",
+  "client-files": ["client.mjs"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grenade",
+  "license": "MIT"
+}
